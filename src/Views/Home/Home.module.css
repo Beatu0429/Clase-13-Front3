@@ -1,0 +1,19 @@
+.contenedor{
+    display: flex;
+    padding: 5px;
+    justify-content: space-evenly;
+}
+
+.avatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.info{
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}

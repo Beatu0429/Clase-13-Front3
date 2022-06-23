@@ -1,0 +1,16 @@
+.titulo{
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #B9B7A7;
+    color: whitesmoke;
+}
+
+.movies{
+    list-style-type: circle;
+    color: #4E5166;
+}
+
